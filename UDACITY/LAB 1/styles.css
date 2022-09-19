@@ -1,0 +1,28 @@
+/* add your CSS here */
+
+img{
+    width:300px
+  }
+  
+  .div1{
+  padding:10px;
+    border:2px solid black;
+  }
+  
+  li{
+    list-style:none;
+  }
+  
+  #interesting-fact{
+    font-style:italic;
+  }
+  
+  span{
+    font-weight:bold;
+  }
+  
+  #card{
+    
+      border:2px solid black;
+      
+  }
